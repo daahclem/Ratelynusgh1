@@ -1,0 +1,11 @@
+[
+  { "provider": "LemFi", "origin": "US", "destination": "GH", "payout_method": "bank_transfer", "url": "https://lemfi.com/en-us/", "send_amount": 1 },
+  { "provider": "Sendwave", "origin": "US", "destination": "GH", "payout_method": "bank_transfer", "url": "https://www.sendwave.com/en-us", "send_amount": 1 },
+  { "provider": "TapTap Send", "origin": "US", "destination": "GH", "payout_method": "mobile_money", "url": "https://www.taptapsend.com/", "send_amount": 1 },
+  { "provider": "PayAngel", "origin": "US", "destination": "GH", "payout_method": "bank_transfer", "url": "https://payangel.com/", "send_amount": 1 },
+  { "provider": "Nala", "origin": "US", "destination": "GH", "payout_method": "mobile_money", "url": "https://www.nala.com/", "send_amount": 1 },
+  { "provider": "Instarem", "origin": "US", "destination": "GH", "payout_method": "bank_transfer", "url": "https://www.instarem.com/en-us/", "send_amount": 1 },
+  { "provider": "Jupay", "origin": "US", "destination": "GH", "payout_method": "bank_transfer", "url": "https://jupay.co/", "send_amount": 1 },
+  { "provider": "OaPay", "origin": "US", "destination": "GH", "payout_method": "bank_transfer", "url": "https://www.oapay.co/", "send_amount": 1 }
+  
+]
